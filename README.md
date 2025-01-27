@@ -1,3 +1,3 @@
-# HerobornArena4REPO
+# HerobornArenaCustom
  
 https://jacedickey.github.io/HerobornArena4REPO/
